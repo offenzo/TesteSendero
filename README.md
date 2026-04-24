@@ -55,7 +55,3 @@ Ou, para executar a API:
 ```bash
 uvicorn pipeline:app --reload
 ```
-
-## Autor
-
-- Projeto criado em 24 de abril de 2026.
