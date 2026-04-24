@@ -1,0 +1,32 @@
+Documento de racionicio.
+
+1 - Como o problema foi entendido:
+
+Na minha primeira leitura, entendi como se o problema fossem dados bagunçados e apenas organizaria eles. Porém depois de ler mais de uma vez, o problema real era a extração e a organização destes dados.
+
+2 - Como a solução foi divida em etapas: 
+
+De primeira, fiquei um pouco perdido para dividir as etapas, só depois de começar a logica, então decidir dividir o codigo nas três fases citadas.
+
+3 - Quais soluções tecnicas foram tomadas e por quê?
+
+A minha maior decisão tecnica, foi utilizar a vetorização, por conta de ser uma forma mais escalavel de lidar com grande numeros de linhas do codigo.
+A separação do codigo em ¨blocos¨, para melhor interpretação do codigo, pensado em uma possivel leitura de proximos desenvolvedores. 
+Utilizar um metodo de codigo defensivo, para evitar possiveis erros futuros.
+Criar uma maneira de usar dados para teste, justamente para testar o codigo.
+
+4 - Como as regras de classificação foram implementadas:
+
+implementei as regras, utilizando filtros de acordo com os temas.
+
+5 - Quais dificuldades foram encontradas:
+
+Minha maior dificuldade foi utilizar o Swagger, por se tratar de algo novo, não entendi muito bem como utiliza-lo e sinto que isso ¨atrapalhou¨ o desenvolvimento da logica.
+Utilizar a vetorização, foi um processo que comecei a estudar por volta de duas semanas, e fazer o uso desse modelo, dificultou um pouco a forma que tratei os dados. 
+Construir a classificação, quando li a primeira vez o documento, não havia entendido de primeira. Mas depois de muitas releituras e com anotações no papel, foi se esclarecendo e consegui construir algo.
+
+6 - O que seria melhorado com mais tempo: 
+
+A forma de lidar com os dados, melhor tratativa, separação e organização em si.
+A utilização da API, como disse antes foi um ponto que dificultou meu desenvolvimento da logica.
+A logica em si, sinto que ficou um pouco confuso de entender.
